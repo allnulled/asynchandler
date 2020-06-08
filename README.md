@@ -15,7 +15,7 @@ To adapt `callbacks paradigm` to `promises paradigm` in a nutshel.
 This example demonstrates how to use `asynchandler` with the node `fs` native module to read and write files using the asynchronous API:
 
 ```js
-const asynchandler = require("asynchandler");
+const asynchandler = require("@allnulled/asynchandler");
 
 const example = async function() {
 	await new Promise((ok, fail) => {
