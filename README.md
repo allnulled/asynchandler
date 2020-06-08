@@ -8,7 +8,7 @@ To adapt `callbacks paradigm` to `promises paradigm` in a nutshel.
 
 ## Installation
 
-`$ npm i -s asynchandler`
+`$ npm i -s @allnulled/asynchandler`
 
 ## Usage
 

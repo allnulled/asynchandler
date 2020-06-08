@@ -1,5 +1,5 @@
 {
-  "name": "asynchandler",
+  "name": "@allnulled/asynchandler",
   "version": "0.0.1",
   "description": "Callback adapter to use in a Promise. ",
   "main": "index.js",
