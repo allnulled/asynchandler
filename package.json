@@ -1,0 +1,18 @@
+{
+  "name": "asynchandler",
+  "version": "0.0.1",
+  "description": "Callback adapter to use in a Promise. ",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["async", "callback", "promise", "adapter"],
+  "author": "allnulled",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/asynchandler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allnulled/asynchandler/issues"
+  },
+  "homepage": "https://github.com/allnulled/asynchandler#readme"
+}
